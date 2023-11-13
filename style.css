@@ -1,0 +1,98 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: poppins , sans-serif;
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
+.textcolour p{
+    margin-top: 20px;
+    width: 235px;
+    margin-left: 100px;
+    font-size: 20px;
+    padding-bottom: 8%;
+    
+}
+.textcolour h1 {
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 90px;
+}
+.image{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    justify-content: space-between;
+    
+    
+}
+.container{
+    position: relative;
+    width: 100%;
+    height: 200%;
+    background-color: rgb(134, 134, 236);
+    background-size: 100%;
+
+}
+.toplay{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.horizontal-line1 {
+    border-bottom: 2px solid rgb(10, 13, 11);
+    width: 100%;
+    margin-top: 51px;
+  }
+  .secondpage{
+    text-align: center;
+    margin-top: 40px;
+  }
+  .secondpara{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: rgb(15, 15, 16);
+    color: white;
+    padding: 20px;
+    display: flex;
+    border-radius: 25px;
+    
+  }
+  .secondimg{
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+   
+  }
+  .secondpagebg{
+    background-color: rgb(150, 150, 237);
+  }
+  .horizontal-line2 {
+    border-bottom: 3px solid rgb(10, 13, 11);
+    width: 100%;
+    margin-top: 240px;
+  }
+  .lastpage img{
+    position: relative;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+  }
+.overtext{
+  position: absolute;
+  text-align: center;
+  top: px;
+}
